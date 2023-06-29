@@ -17,7 +17,7 @@ body{
 
 .container-card{
     height: 600px;
-    width: 830px;
+    width: 800px;
     display: flex;
     background-color: white;
     border-radius: 15px;
@@ -51,6 +51,7 @@ body{
     width: 250px;
     font-size: 38px;
     margin-bottom: 20px;
+    color: #1c232c;
 }
 
 .price-side .description{
@@ -59,4 +60,18 @@ body{
     line-height: 25px;
     margin-bottom: 20px;
     color: #898b97;
+}
+
+.price-side .price{
+    font-family: 'Fraunces', serif;
+    width: 250px;
+    font-size: 36px;
+    margin-bottom: 20px;
+    color: #3c8167;
+}
+
+.price-side .price .oldPrice{
+    font-family: 'Montserrat', sans-serif;
+    font-size: 12px;
+    line-height: center;
 }
