@@ -42,31 +42,32 @@ body{
 .price-side .type{
     font-family: 'Montserrat', sans-serif;
     text-transform: uppercase;
-    letter-spacing: 4px;
+    letter-spacing: 5px;
     margin-bottom: 25px;
 }
 
 .price-side .title{
     font-family: 'Fraunces', serif;
     width: 250px;
-    font-size: 38px;
+    font-size: 40px;
     margin-bottom: 25px;
     color: #1c232c;
 }
 
 .price-side .description{
+    font-size: 18px;
     font-family: 'Montserrat', sans-serif;
-    width: 260px;
+    width: 290px;
     line-height: 25px;
-    margin-bottom: 25px;
+    margin-bottom: 40px;
     color: #898b97;
 }
 
 .price-side .price{
     font-family: 'Fraunces', serif;
     width: 250px;
-    font-size: 36px;
-    margin-bottom: 25px;
+    font-size: 40px;
+    margin-bottom: 40px;
     color: #3c8167;
     display: flex;
     align-items: center;
@@ -75,15 +76,17 @@ body{
 
 .price-side .price .oldPrice{
     font-family: 'Montserrat', sans-serif;
-    font-size: 14px;
+    font-size: 18px;
     text-decoration: line-through;
     color: #a8a9af;
 }
 
 .price-side .cart{
-    width: 280px;
-    height: 50px;
+    width: 320px;
+    height: 70px;
     border: none;
     border-radius: 10px;
     background-color: #3d8168;
+    font-size: 18px;
+    color: white;
 }
