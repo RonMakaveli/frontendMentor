@@ -50,4 +50,13 @@ body{
     font-family: 'Fraunces', serif;
     width: 250px;
     font-size: 38px;
+    margin-bottom: 20px;
+}
+
+.price-side .description{
+    font-family: 'Montserrat', sans-serif;
+    width: 260px;
+    line-height: 25px;
+    margin-bottom: 20px;
+    color: #898b97;
 }
