@@ -38,3 +38,16 @@ body{
 .price-side{
     padding: 40px;
 }
+
+.price-side .type{
+    font-family: 'Montserrat', sans-serif;
+    text-transform: uppercase;
+    letter-spacing: 4px;
+    margin-bottom: 20px;
+}
+
+.price-side .title{
+    font-family: 'Fraunces', serif;
+    width: 250px;
+    font-size: 38px;
+}
