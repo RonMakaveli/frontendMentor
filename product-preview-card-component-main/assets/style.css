@@ -82,11 +82,12 @@ body{
 }
 
 .price-side .cart{
-    width: 320px;
+    width: 310px;
     height: 70px;
     border: none;
     border-radius: 10px;
     background-color: #3d8168;
     font-size: 18px;
+    font-family: 'Montserrat', sans-serif;
     color: white;
 }
