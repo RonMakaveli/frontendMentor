@@ -15,9 +15,8 @@ body{
 
 .container-card{
     height: 600px;
-    width: 600px;
+    width: 830px;
     display: flex;
-    gap: 30px;
     background-color: white;
     border-radius: 15px;
     overflow: hidden;
@@ -32,4 +31,8 @@ body{
     width: inherit;
     object-fit: cover;
     object-position: center;
+}
+
+.price-side{
+    padding: 40px;
 }
